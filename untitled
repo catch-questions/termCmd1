@@ -1,0 +1,57 @@
+
+echo
+
+print
+
+ctr + P
+
+ctr + N
+
+;
+
+clear
+
+touch
+
+mkdir
+
+cd
+
+ls
+
+ls -l
+
+ls -a
+
+../
+
+pwd
+
+vi q w
+
+cat
+
+cp
+
+rm
+
+rmdir
+
+rm -r
+
+rm -rf
+
+clear
+
+open
+
+killall
+
+open apps quickly
+open -a "/Applications/Safari.app"; open -a /Applications/Atom.app;
+
+kill cloud app
+killall OneDrive; killall Box; killall Backup\ and\ Sync;
+
+
+
